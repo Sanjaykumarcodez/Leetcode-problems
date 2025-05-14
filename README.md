@@ -24,6 +24,7 @@ java programming
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0069-sqrtx) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
@@ -49,5 +50,6 @@ java programming
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
