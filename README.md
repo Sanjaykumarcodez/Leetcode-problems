@@ -8,6 +8,7 @@ java programming
 | ------- |
 | [0031-next-permutation](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0330-patching-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0330-patching-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -16,6 +17,7 @@ java programming
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0031-next-permutation) |
+| [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +34,7 @@ java programming
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
@@ -58,4 +61,8 @@ java programming
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
