@@ -6,6 +6,7 @@ java programming
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0330-patching-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0330-patching-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
@@ -16,6 +17,7 @@ java programming
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0061-rotate-list) |
