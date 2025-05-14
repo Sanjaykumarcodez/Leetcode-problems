@@ -23,6 +23,7 @@ java programming
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
