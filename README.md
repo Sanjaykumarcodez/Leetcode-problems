@@ -36,6 +36,7 @@ java programming
 | ------- |
 | [0007-reverse-integer](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0202-happy-number) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -44,6 +45,7 @@ java programming
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0067-add-binary) |
 | [1508-longest-happy-prefix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1508-longest-happy-prefix) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -80,6 +82,7 @@ java programming
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0067-add-binary) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 ## String Matching
 |  |
@@ -94,4 +97,8 @@ java programming
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1508-longest-happy-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
