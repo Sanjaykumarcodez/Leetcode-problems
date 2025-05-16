@@ -48,6 +48,7 @@ java programming
 | [0067-add-binary](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0067-add-binary) |
 | [1508-longest-happy-prefix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1508-longest-happy-prefix) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2470-removing-stars-from-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
@@ -84,6 +85,7 @@ java programming
 | ------- |
 | [0067-add-binary](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0067-add-binary) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2470-removing-stars-from-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -101,4 +103,8 @@ java programming
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0067-add-binary) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
