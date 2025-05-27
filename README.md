@@ -8,6 +8,7 @@ java programming
 | ------- |
 | [0001-two-sum](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0330-patching-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0330-patching-array) |
@@ -23,6 +24,7 @@ java programming
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0061-rotate-list) |
