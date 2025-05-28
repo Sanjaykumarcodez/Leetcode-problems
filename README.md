@@ -42,6 +42,7 @@ java programming
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0069-sqrtx) |
