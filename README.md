@@ -14,6 +14,7 @@ java programming
 | [0075-sort-colors](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0330-patching-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0330-patching-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -72,6 +73,7 @@ java programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
