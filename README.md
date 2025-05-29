@@ -12,6 +12,7 @@ java programming
 | [0031-next-permutation](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0330-patching-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0330-patching-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -30,6 +31,7 @@ java programming
 | [0031-next-permutation](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0202-happy-number) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 ## Hash Table
@@ -126,4 +128,5 @@ java programming
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
