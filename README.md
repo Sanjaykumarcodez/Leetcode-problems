@@ -58,6 +58,7 @@ java programming
 | [0067-add-binary](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0258-add-digits) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -114,6 +115,7 @@ java programming
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0258-add-digits) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 ## String Matching
@@ -156,4 +158,8 @@ java programming
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
