@@ -60,6 +60,7 @@ java programming
 | [0202-happy-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0258-add-digits) |
+| [0507-perfect-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0507-perfect-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
