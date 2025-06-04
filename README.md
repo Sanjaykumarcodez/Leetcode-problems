@@ -58,6 +58,7 @@ java programming
 | [0067-add-binary](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0258-add-digits) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3201-distribute-candies-among-children-ii) |
@@ -107,6 +108,7 @@ java programming
 | [0021-merge-two-sorted-lists](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,6 +138,7 @@ java programming
 | ------- |
 | [0067-add-binary](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
