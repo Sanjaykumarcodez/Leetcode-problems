@@ -47,6 +47,7 @@ java programming
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Math
 |  |
@@ -73,6 +74,7 @@ java programming
 | [0058-length-of-last-word](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [1508-longest-happy-prefix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1508-longest-happy-prefix) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
@@ -150,6 +152,7 @@ java programming
 | [0075-sort-colors](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0242-valid-anagram) |
 ## Combinatorics
 |  |
 | ------- |
