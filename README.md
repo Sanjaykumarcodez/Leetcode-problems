@@ -65,6 +65,7 @@ java programming
 | [0231-power-of-two](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -91,6 +92,7 @@ java programming
 | [0118-pascals-triangle](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -116,6 +118,7 @@ java programming
 | [0050-powx-n](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -174,4 +177,8 @@ java programming
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0258-add-digits) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
