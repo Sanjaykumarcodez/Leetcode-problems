@@ -18,6 +18,7 @@ java programming
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0330-patching-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0330-patching-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
@@ -49,6 +50,7 @@ java programming
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -162,6 +164,7 @@ java programming
 | [0075-sort-colors](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0242-valid-anagram) |
 ## Combinatorics
 |  |
