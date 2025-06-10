@@ -15,6 +15,7 @@ java programming
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0118-pascals-triangle) |
@@ -121,6 +122,7 @@ java programming
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -200,4 +202,8 @@ java programming
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1013-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
