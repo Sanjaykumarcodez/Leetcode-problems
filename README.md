@@ -7,6 +7,7 @@ java programming
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0031-next-permutation) |
@@ -112,6 +113,7 @@ java programming
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
@@ -182,6 +184,7 @@ java programming
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0169-majority-element) |
 ## Number Theory
 |  |
