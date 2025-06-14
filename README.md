@@ -26,6 +26,7 @@ java programming
 | [0169-majority-element](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0260-single-number-iii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0268-missing-number) |
 | [0330-patching-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0330-patching-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
@@ -178,6 +179,7 @@ java programming
 | [0136-single-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
 ## Stack
