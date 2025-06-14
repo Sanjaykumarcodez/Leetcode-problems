@@ -30,6 +30,7 @@ java programming
 | [0268-missing-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0330-patching-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -54,6 +55,7 @@ java programming
 | [0202-happy-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 ## Hash Table
 |  |
@@ -66,6 +68,7 @@ java programming
 | [0219-contains-duplicate-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
@@ -134,6 +137,7 @@ java programming
 | [0069-sqrtx](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -197,6 +201,7 @@ java programming
 | [0217-contains-duplicate](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 ## Combinatorics
 |  |
 | ------- |
