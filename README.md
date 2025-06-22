@@ -14,6 +14,7 @@ java programming
 | [0033-search-in-rotated-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0075-sort-colors) |
@@ -175,6 +176,7 @@ java programming
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0258-add-digits) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
@@ -246,5 +248,6 @@ java programming
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
