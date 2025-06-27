@@ -75,6 +75,7 @@ java programming
 | [0217-contains-duplicate](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -97,6 +98,7 @@ java programming
 | [0231-power-of-two](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0342-power-of-four) |
@@ -135,6 +137,7 @@ java programming
 | [0118-pascals-triangle](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [1013-fibonacci-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -259,4 +262,8 @@ java programming
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
