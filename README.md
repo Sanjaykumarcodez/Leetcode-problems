@@ -109,6 +109,7 @@ java programming
 | [0415-add-strings](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1585-the-kth-factor-of-n](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
 | [2507-number-of-common-factors](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2507-number-of-common-factors) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -261,6 +262,7 @@ java programming
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0258-add-digits) |
+| [1585-the-kth-factor-of-n](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1585-the-kth-factor-of-n) |
 | [2507-number-of-common-factors](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2507-number-of-common-factors) |
 ## Memoization
 |  |
