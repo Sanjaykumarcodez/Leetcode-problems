@@ -29,6 +29,7 @@ java programming
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0283-move-zeroes) |
@@ -79,6 +80,7 @@ java programming
 | [0202-happy-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0268-missing-number) |
@@ -155,6 +157,7 @@ java programming
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
@@ -240,6 +243,7 @@ java programming
 | [0169-majority-element](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
