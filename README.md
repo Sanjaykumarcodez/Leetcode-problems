@@ -77,6 +77,7 @@ java programming
 | ------- |
 | [0001-two-sum](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0202-happy-number) |
@@ -100,6 +101,7 @@ java programming
 | [0002-add-two-numbers](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0050-powx-n) |
@@ -128,6 +130,7 @@ java programming
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0058-length-of-last-word) |
