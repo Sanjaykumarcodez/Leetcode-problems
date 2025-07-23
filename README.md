@@ -72,6 +72,7 @@ java programming
 | [0908-middle-of-the-linked-list](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 ## Hash Table
 |  |
@@ -191,6 +192,7 @@ java programming
 | [0061-rotate-list](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
