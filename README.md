@@ -8,6 +8,7 @@ java programming
 | ------- |
 | [0001-two-sum](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0027-remove-element) |
@@ -49,11 +50,13 @@ java programming
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0330-patching-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0330-patching-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0027-remove-element) |
