@@ -260,6 +260,7 @@ java programming
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [2470-removing-stars-from-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
 |  |
@@ -319,4 +320,16 @@ java programming
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
