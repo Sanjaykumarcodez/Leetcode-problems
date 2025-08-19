@@ -261,6 +261,7 @@ java programming
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [2470-removing-stars-from-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
 |  |
@@ -324,12 +325,15 @@ java programming
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
