@@ -16,6 +16,7 @@ java programming
 | [0033-search-in-rotated-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
@@ -113,6 +114,7 @@ java programming
 | [0012-integer-to-roman](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0066-plus-one) |
@@ -324,6 +326,7 @@ java programming
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0898-transpose-matrix) |
