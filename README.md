@@ -30,6 +30,7 @@ java programming
 | [0137-single-number-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -72,6 +73,7 @@ java programming
 | [0088-merge-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0344-reverse-string) |
@@ -120,6 +122,7 @@ java programming
 | [0066-plus-one](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0231-power-of-two) |
