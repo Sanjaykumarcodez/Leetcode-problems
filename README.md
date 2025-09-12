@@ -77,6 +77,7 @@ java programming
 | [0202-happy-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
@@ -157,6 +158,7 @@ java programming
 | [0151-reverse-words-in-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0504-base-7) |
