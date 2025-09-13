@@ -47,6 +47,7 @@ java programming
 | [0898-transpose-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1319-unique-number-of-occurrences](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
@@ -298,6 +299,7 @@ java programming
 | [0389-find-the-difference](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Combinatorics
 |  |
