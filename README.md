@@ -43,6 +43,7 @@ java programming
 | [0349-intersection-of-two-arrays](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0941-sort-array-by-parity) |
