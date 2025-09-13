@@ -50,6 +50,7 @@ java programming
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1319-unique-number-of-occurrences](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -206,6 +207,7 @@ java programming
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0792-binary-search) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
 | ------- |
@@ -301,6 +303,7 @@ java programming
 | [0958-sort-array-by-parity-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Combinatorics
 |  |
 | ------- |
