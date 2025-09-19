@@ -39,6 +39,7 @@ java programming
 | [0260-single-number-iii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0330-patching-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -183,6 +184,7 @@ java programming
 | [0119-pascals-triangle-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [1013-fibonacci-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -206,6 +208,7 @@ java programming
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0367-valid-perfect-square) |
