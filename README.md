@@ -57,6 +57,7 @@ java programming
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Greedy
 |  |
@@ -112,6 +113,7 @@ java programming
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
@@ -196,6 +198,7 @@ java programming
 | ------- |
 | [0169-majority-element](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0229-majority-element-ii) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
