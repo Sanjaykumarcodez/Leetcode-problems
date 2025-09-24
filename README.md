@@ -172,6 +172,7 @@ java programming
 | [0504-base-7](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0742-to-lower-case](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0742-to-lower-case) |
+| [1205-defanging-an-ip-address](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1508-longest-happy-prefix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1508-longest-happy-prefix) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
