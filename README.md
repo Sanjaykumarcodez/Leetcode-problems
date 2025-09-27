@@ -47,6 +47,7 @@ java programming
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [0898-transpose-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
@@ -146,6 +147,7 @@ java programming
 | [0415-add-strings](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0507-perfect-number) |
+| [0830-largest-triangle-area](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
@@ -418,4 +420,8 @@ java programming
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
