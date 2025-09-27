@@ -194,6 +194,7 @@ java programming
 | [0264-ugly-number-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -290,6 +291,7 @@ java programming
 | [0231-power-of-two](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0461-hamming-distance) |
