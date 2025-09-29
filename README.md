@@ -172,6 +172,7 @@ java programming
 | [0345-reverse-vowels-of-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0504-base-7](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0742-to-lower-case](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0742-to-lower-case) |
