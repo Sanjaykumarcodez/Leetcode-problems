@@ -56,6 +56,7 @@ java programming
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -151,6 +152,7 @@ java programming
 | [1013-fibonacci-number](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2507-number-of-common-factors](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2507-number-of-common-factors) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3201-distribute-candies-among-children-ii) |
@@ -266,6 +268,7 @@ java programming
 | [0415-add-strings](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 ## String Matching
 |  |
@@ -327,6 +330,7 @@ java programming
 ## Combinatorics
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3201-distribute-candies-among-children-ii) |
 ## Enumeration
 |  |
