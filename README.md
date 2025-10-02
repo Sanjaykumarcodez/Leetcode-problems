@@ -157,6 +157,7 @@ java programming
 | [2507-number-of-common-factors](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2507-number-of-common-factors) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3201-distribute-candies-among-children-ii) |
+| [3336-water-bottles-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3336-water-bottles-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
@@ -274,6 +275,7 @@ java programming
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
+| [3336-water-bottles-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3336-water-bottles-ii) |
 ## String Matching
 |  |
 | ------- |
