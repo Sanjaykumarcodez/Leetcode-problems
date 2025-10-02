@@ -178,6 +178,7 @@ java programming
 | [0504-base-7](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0742-to-lower-case](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0742-to-lower-case) |
+| [1078-remove-outermost-parentheses](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1508-longest-happy-prefix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1508-longest-happy-prefix) |
@@ -306,6 +307,7 @@ java programming
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
 |  |
