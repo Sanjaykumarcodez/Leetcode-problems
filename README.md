@@ -182,6 +182,7 @@ java programming
 | [0541-reverse-string-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1297-maximum-number-of-balloons) |
@@ -282,6 +283,7 @@ java programming
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1508-longest-happy-prefix) |
 ## Rolling Hash
 |  |
