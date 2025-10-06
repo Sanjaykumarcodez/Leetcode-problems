@@ -62,6 +62,7 @@ java programming
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Greedy
 |  |
