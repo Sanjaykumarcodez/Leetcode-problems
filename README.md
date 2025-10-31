@@ -45,6 +45,7 @@ java programming
 | [0330-patching-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -120,6 +121,7 @@ java programming
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
