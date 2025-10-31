@@ -63,6 +63,7 @@ java programming
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Greedy
 |  |
@@ -125,6 +126,7 @@ java programming
 | [1904-second-largest-digit-in-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
@@ -167,6 +169,7 @@ java programming
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3336-water-bottles-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3336-water-bottles-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
