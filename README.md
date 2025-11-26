@@ -166,6 +166,7 @@ java programming
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
+| [2235-add-two-integers](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2235-add-two-integers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2507-number-of-common-factors](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2507-number-of-common-factors) |
