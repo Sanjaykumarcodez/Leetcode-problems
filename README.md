@@ -56,6 +56,7 @@ java programming
 | [0958-sort-array-by-parity-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1319-unique-number-of-occurrences](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
+| [1550-three-consecutive-odds](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1550-three-consecutive-odds) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
