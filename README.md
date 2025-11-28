@@ -206,6 +206,7 @@ java programming
 | [1297-maximum-number-of-balloons](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1508-longest-happy-prefix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1508-longest-happy-prefix) |
+| [1592-rearrange-spaces-between-words](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1592-rearrange-spaces-between-words) |
 | [1894-merge-strings-alternately](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
