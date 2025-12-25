@@ -480,5 +480,6 @@ java programming
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0196-delete-duplicate-emails) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
