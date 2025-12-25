@@ -477,4 +477,8 @@ java programming
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+|  |
+| ------- |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
