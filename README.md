@@ -16,6 +16,7 @@ java programming
 | [0033-search-in-rotated-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0066-plus-one) |
@@ -82,6 +83,7 @@ java programming
 | [0027-remove-element](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -218,6 +220,7 @@ java programming
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
@@ -339,6 +342,7 @@ java programming
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -484,4 +488,8 @@ java programming
 | [0183-customers-who-never-order](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0196-delete-duplicate-emails) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
