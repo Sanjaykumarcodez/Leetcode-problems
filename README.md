@@ -49,6 +49,7 @@ java programming
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0830-largest-triangle-area) |
@@ -73,6 +74,7 @@ java programming
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0330-patching-array](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0330-patching-array) |
+| [0561-array-partition](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0561-array-partition) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
 |  |
@@ -365,6 +367,7 @@ java programming
 | [0349-intersection-of-two-arrays](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
@@ -496,4 +499,8 @@ java programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0042-trapping-rain-water) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Sanjaykumarcodez/Leetcode-problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
